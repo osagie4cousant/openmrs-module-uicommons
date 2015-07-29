@@ -17,9 +17,10 @@ $darkerGrey: #BBB;
 $lighterGrey: #f3f3f3;
 
 //openMrs colors
-$highlight: darken(#009384, 15%);
-$text: darken(#5B57A6, 20%);
-$subtleText: darken($darkerGrey, 25%);
+//$highlight: darken(#009384, 15%);
+$highlight: darken(#5B57A6, 5%);
+$text: darken(#5B57A6, 10%);
+$subtleText: darken($darkerGrey, 20%);
 $subtlerText: $darkerGrey;
 $disabled: #CCCCCC;
 
